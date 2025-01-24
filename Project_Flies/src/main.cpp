@@ -2,8 +2,8 @@
 #include <fstream>
 #include <string.h>
 #include <stdlib.h>
-#include "C:\Users\TUKESH\Desktop\Training-Schedule-Management-main\Project_Flies\include\adminLogin.h"
-#include "C:\Users\TUKESH\Desktop\Training-Schedule-Management-main\Project_Flies\include\facultyLogin.h"
+#include "../include/adminLogin.h"
+#include "../include/facultyLogin.h"
 
 void adminLogin();
 void facultyLogin();
